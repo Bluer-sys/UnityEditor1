@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 60f41889f578b0649a8cd865d8270174
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ConstHealthTexture: {fileID: 2800000, guid: 14e339679b1e110419e8f26f2380d5f8, type: 3}
+  - MaxHealthTexture: {fileID: 2800000, guid: 61162b3d0c9cfaf4880479d4e5b01627, type: 3}
+  - HealthTexture: {fileID: 2800000, guid: da1500b6875b7b9429b30342ab435e93, type: 3}
+  - StrengthTexture: {fileID: 2800000, guid: 98b24ba79e7354f43ac6278ef692897d, type: 3}
+  - AgilityTexture: {fileID: 2800000, guid: 6eb949c3500b96c4b837d0c18ef6804e, type: 3}
+  - IntellectTexture: {fileID: 2800000, guid: 7f0084d4f702347448caa4934528f7f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
